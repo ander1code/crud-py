@@ -6,7 +6,6 @@
 
 2 - Features CRUD:
 
-- Login (MD5)
 - Registration
 - Search for Name and Code
 
@@ -14,6 +13,8 @@
 
 - Python 3
 - SQLite3
+- PTVS 2.2 (Visual Studio 2013)
+- SQLiteStudio v3.1.1
 
 4 - Requirements for project's edition:
 
