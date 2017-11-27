@@ -1,6 +1,6 @@
 # CrudPy
 
-Prototype of a small individual registration made in Python pure with SQLite3 database.
+- Prototype of a small individual registration made in Python pure with SQLite3 database.
 
 ### 1. Features:
 
