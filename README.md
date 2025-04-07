@@ -1,9 +1,13 @@
 # CrudPy
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&color=yellow)
+
 ![SQLite3](https://img.shields.io/badge/SQLite3-003B57?logo=sqlite&logoColor=white&color=blue)
+
 ![Platform: Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow)
-![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-py?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/crud-py?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/crud-py?color=black&logo=open-source-initiative)
+
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-py?color=yellow&logo=github) 
+
 
 ## 1. Description
 A **prototype CRUD application** developed in **pure Python**, utilizing an **SQLite3 database** for individual registration. This lightweight project focuses on simplicity, functionality, and transactional integrity.
